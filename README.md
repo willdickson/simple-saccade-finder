@@ -11,11 +11,13 @@ Install using pip
 
 ```bash
 $ pip install servodoor 
+```
 
 Install using uv
 
 ```bash
-$uv sync
+$ uv sync
+```
 
 
 
