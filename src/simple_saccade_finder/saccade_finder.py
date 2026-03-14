@@ -167,7 +167,7 @@ def find_saccades(t, x, param):
         * ``sacadde_tvals`` (ndarray): time values of the detected saccades
         * ``saccade_xvals`` (ndarray): voltage values of detected saccades
         * ``saccade_svals`` (ndarray): signs of the detected saccades
-        * ``x_bp``          (ndarray): bandpass filtered v values
+        * ``x_bp``          (ndarray): bandpass filtered x values
         
     """
     t_start = param.get('t_start', 0.0) 
